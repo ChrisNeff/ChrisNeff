@@ -1,18 +1,39 @@
 # Hi, I'm Chris Neff 👋
 
-I'm a technology (applications / cloud / AI/ DevOps) architect passionate about delivering value via technology solutions.
+**Technology Architect** specializing in Application Engineering, Cloud, AI, and DevOps
 
-## 🔭 I'm currently working on
-- Project 1
-- Project 2
+I'm passionate about delivering value through innovative technology solutions and helping organizations modernize their infrastructure and development practices.
 
-## 🌱 I'm currently learning
-- Technology 1
-- Technology 2
+## 🔭 What I'm Working On
 
-## 📫 How to reach me
-- X (Twitter): 
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+- Designing and implementing cloud-native architectures
+- Building AI-powered solutions and integrations
+- Optimizing DevOps pipelines and automation workflows
+- Mentoring teams on modern application development practices
 
-## ⚡ Fun fact
-Something interesting about you!
+## 🌱 Currently Exploring
+
+- Advanced AI/ML integration patterns
+- Infrastructure as Code best practices
+- Emerging DevOps and platform engineering tools
+
+## 💼 Areas of Expertise
+
+- **Cloud Platforms**: Azure
+- **DevOps & Automation**: CI/CD, Infrastructure as Code, GitOps
+- **AI & Machine Learning**: LLM integration, AI workflows
+- **Architecture**: Microservices, Event-driven, Cloud-native design
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: [christopherneff](https://linkedin.com/in/christopherneff)
+- 🐦 X (Twitter): [@chris_neff_pgh](https://x.com/chris_neff_pgh)
+- 📍 Based in Pittsburgh, PA
+
+## ⚡ Fun Fact
+
+[Add something personal - a hobby, interest, or unique fact about yourself!]
+
+---
+
+*Driving to value is a lifestyle.* 🚀
