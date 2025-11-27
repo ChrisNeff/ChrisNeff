@@ -32,7 +32,7 @@ I'm passionate about delivering value through innovative technology solutions an
 
 ## ⚡ Fun Fact
 
-[Add something personal - a hobby, interest, or unique fact about yourself!]
+I'm currently obessed with rucking :)
 
 ---
 
