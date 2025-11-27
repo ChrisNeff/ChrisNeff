@@ -1,4 +1,4 @@
-# Hi, I'm Chris Neff 👋
+# Hi, I'm Chris Neff :sunglasses:
 
 **Technology Architect** specializing in Application Engineering, Cloud, AI, and DevOps
 
@@ -32,7 +32,7 @@ I'm passionate about delivering value through innovative technology solutions an
 
 ## ⚡ Fun Fact
 
-I'm currently obessed with rucking :)
+I'm currently obessed with rucking :fireworks:
 
 ---
 
